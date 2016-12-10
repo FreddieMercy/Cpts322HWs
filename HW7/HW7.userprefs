@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="HW7/HW7.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW7/Form1.Designer.cs">
+    <Files>
+      <File FileName="SpreadSheetEngine/Spreadsheet.cs" Line="1" Column="1" />
+      <File FileName="HW7/Program.cs" Line="1" Column="1" />
+      <File FileName="HW7/Form1.cs" Line="8" Column="30" />
+      <File FileName="HW7/App.config" Line="1" Column="1" />
+      <File FileName="HW7/Form1.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

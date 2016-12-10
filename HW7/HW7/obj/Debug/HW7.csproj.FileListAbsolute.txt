@@ -1,0 +1,11 @@
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\bin\Debug\HW7.exe.config
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\bin\Debug\HW7.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\bin\Debug\HW7.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\obj\Debug\HW7.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\obj\Debug\HW7.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\obj\Debug\HW7.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\obj\Debug\HW7.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\obj\Debug\HW7.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\bin\Debug\SpreadSheetEngine.dll
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\bin\Debug\SpreadSheetEngine.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts322\HW7\HW7\obj\Debug\HW7.Form1.resources
